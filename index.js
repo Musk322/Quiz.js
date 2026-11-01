@@ -1,7 +1,7 @@
 // Quiz questions array
 const quizQuestions = [
   { question: "What is the capital of France?", answer: "Paris" },
-  { question: "Which planet is known as the Red Planet?", answer: "Mars" },
+  { question: "Which Planet is known as the Red Planet?", answer: "Mars" },
   { question: "What is 5 + 7?", answer: "12" },
   { question: "Who is President of Russia?", answer: "Vladimir Putin" },
   { question: "Which language is used for web development?", answer: "JavaScript" }
